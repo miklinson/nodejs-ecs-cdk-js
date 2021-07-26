@@ -1,8 +1,7 @@
 # NodeJS Rest API deployment in AWS ECS + Fargate using CDK
 
-This project will deploy a Simple NodeJS Rest API app using CDK with CodePipeline for CI/CD. 
+This project will deploy a Simple NodeJS Rest API app using CDK with CodePipeline for CI/CD. \
 
-### NodeJS source:
 [NodeJS Source](https://github.com/miklinson/dockerized-simple-nodejs-rest-api)
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app. The build step is not required when using JavaScript.
